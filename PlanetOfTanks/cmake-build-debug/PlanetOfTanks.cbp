@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PlanetOfTanks"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PlanetOfTanks">
+				<Option output="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug/PlanetOfTanks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 PlanetOfTanks"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PlanetOfTanks/fast">
+				<Option output="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug/PlanetOfTanks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 PlanetOfTanks/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nightly">
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nightly"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package">
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 package"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Continuous">
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 Continuous"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package_source">
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 package_source"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experimental">
+				<Option working_dir="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 Experimental"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/durda/Desktop/test\ task/task2021_linux/PlanetOfTanks/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/Framework/src/launch.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/AnimatedObject.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Bonus.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Boom.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Boom.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Bullet.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Bullet.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/GameMap.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/GameMap.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/MovingObject.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/MovingObject.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Object.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Phoenix.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/RightInterface.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/RightInterface.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/StartedAnimation.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/StartedAnimation.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Tank.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Tank.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Wall.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Wall.h">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/game.cpp">
+			<Option target="PlanetOfTanks"/>
+		</Unit>
+		<Unit filename="/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

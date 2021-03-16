@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/home/durda/Desktop/test_task/task2021_linux/Framework/src/launch.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/Framework/src/launch.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/Framework/src/launch.cpp"
+},
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/src/game.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/game.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/game.cpp"
+},
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/src/GameMap.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/GameMap.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/GameMap.cpp"
+},
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/src/Wall.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Wall.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Wall.cpp"
+},
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/src/Tank.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Tank.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Tank.cpp"
+},
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/src/Bullet.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Bullet.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Bullet.cpp"
+},
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/src/Boom.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Boom.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/Boom.cpp"
+},
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/src/MovingObject.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/MovingObject.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/MovingObject.cpp"
+},
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/src/StartedAnimation.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/StartedAnimation.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/StartedAnimation.cpp"
+},
+{
+  "directory": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/PlanetOfTanks.dir/src/RightInterface.cpp.o -c \"/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/RightInterface.cpp\"",
+  "file": "/home/durda/Desktop/test task/task2021_linux/PlanetOfTanks/src/RightInterface.cpp"
+}
+]
